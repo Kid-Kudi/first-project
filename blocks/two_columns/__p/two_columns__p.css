@@ -1,0 +1,9 @@
+.two_columns__p {
+  margin-top: 0;
+  margin-bottom: 30px;
+  /*border: 2px solid red;*/
+}
+
+.two_columns__p:last-of-type {
+  margin-bottom: 0;
+}

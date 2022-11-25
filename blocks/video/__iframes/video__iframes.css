@@ -1,0 +1,8 @@
+.video__iframes {
+  /*border: 1px solid gray;*/
+  width: 1040px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  transform: translate(0, 60px);
+}

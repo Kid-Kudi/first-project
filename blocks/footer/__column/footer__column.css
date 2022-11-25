@@ -1,0 +1,6 @@
+.footer__column {
+  /*border: 1px solid hsl(240, 76%, 42%);*/
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}

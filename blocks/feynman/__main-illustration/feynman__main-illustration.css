@@ -1,0 +1,10 @@
+.feynman__main-illustration {
+/*border: 1px solid red;*/
+box-sizing: border-box;
+width: 867px;
+height: 637px;
+position: absolute;
+bottom: 0;
+left: 0;
+z-index: 2;
+}

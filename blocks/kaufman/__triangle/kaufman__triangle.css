@@ -1,0 +1,6 @@
+.kaufman__triangle {
+  /*border: 2px solid red;*/
+  z-index: 0;
+  position: absolute;
+  right: -210px;
+}
